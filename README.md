@@ -24,3 +24,17 @@
 5.	In the main () function:
 -	Print a welcome message to the user and call the play_game() function to start the Rock,Paper,Scissors game.
 
+## Instruction for the game of Rock, Paper, Scissors
+As in how this works is the user inputs an option selected from rock, paper or scissors and on the other hand the computer randomly procees to select an option from the above mentioned list. As the both parties proceed with the inputs the script compares them. There is a total of 9 outcomes when comapred the inputs.
+
+1) If the user chooses "Rock" and the computer chooses "Rock", it will be a tie. 
+2) If the user chooses "Rock" and the computer chooses "Paper", the computer will win.
+3) If the user chooses "Rock" and the computer chooses "Scissors", the user will win.
+4) If the user chooses "Paper" and the computer chooses "Paper" it will be a tie.
+5) If the user chooses "Paper" and the computer chooses "Scissors", the computer will win.
+6) If the user chooses "Paper" and the computer chooses "Rock", the user will win.
+7) If the user chooses "Scissors" and the computer chooses "Scissors", it will be a tie.
+8) If the user chooses "Scissors" and the computer chooses "Rock", the computer will win.
+9) If the user chooses "Scissors" and the computer chooses "Paper", the user will win.
+
+The user will be only able to enter one option each turn, same as the auto generated option from the computer. After selecting the option, the user will be given the option between moving on or going back to selecting a different option. This is where the difference comes in as in a real time game of rock papper scissor you can't go back on the selected move. Then the program will comapre the inputs and provide the user with the final result and leaving the option for him or her to go back for another round of rock paper scissor.
