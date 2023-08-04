@@ -1,7 +1,17 @@
 # Group-Lab
 
-## Algorithm for the project
+### Table of Contents
+1. [Part A - Algorithm for the project](#part-a)
+2. [Part B - Instruction for the game of Rock, Paper, Scissors](#part-b)
+3. [Part C - Role of each member](#part-c)
+4. [Part D - Multi container apps](#part-d)
 
+
+## Part A
+
+### Algorithm for the project
+
+``` 
 1.	Create a function called get_user_choice():
 -	Get the input from the user (Rock/Paper/Scissors)
 -	Check if the input is valid through a while loop and iterate until a valid input is provided.
@@ -23,10 +33,14 @@
 -	Ask if the user wants to continue playing the game, if not, break out of the loop and end the game.
 5.	In the main () function:
 -	Print a welcome message to the user and call the play_game() function to start the Rock,Paper,Scissors game.
+```
 
-## Instruction for the game of Rock, Paper, Scissors
+## Part B
+
+### Instruction for the game of Rock, Paper, Scissors
 As in how this works is the user inputs an option selected from rock, paper or scissors and on the other hand the computer randomly procees to select an option from the above mentioned list. As the both parties proceed with the inputs the script compares them. There is a total of 9 outcomes when comapred the inputs.
 
+```
 1) If the user chooses "Rock" and the computer chooses "Rock", it will be a tie. 
 2) If the user chooses "Rock" and the computer chooses "Paper", the computer will win.
 3) If the user chooses "Rock" and the computer chooses "Scissors", the user will win.
@@ -36,5 +50,40 @@ As in how this works is the user inputs an option selected from rock, paper or s
 7) If the user chooses "Scissors" and the computer chooses "Scissors", it will be a tie.
 8) If the user chooses "Scissors" and the computer chooses "Rock", the computer will win.
 9) If the user chooses "Scissors" and the computer chooses "Paper", the user will win.
+```
 
 The user will be only able to enter one option each turn, same as the auto generated option from the computer. After selecting the option, the user will be given the option between moving on or going back to selecting a different option. This is where the difference comes in as in a real time game of rock papper scissor you can't go back on the selected move. Then the program will comapre the inputs and provide the user with the final result and leaving the option for him or her to go back for another round of rock paper scissor.
+
+## Part C
+
+### Member's Role:
+
+- Parkhi Sharma
+Student ID: 113180210
+Email: psharma178@myseneca.ca
+Role: 
+Worked on Iteration1 and Testing1
+Created a new issue for resolving
+Made the README.md file
+Deployed the project
+
+- Khushi Rathod 
+Student ID: 121499214 
+Email: kkrathod@myseneca.ca
+Role:
+Acknowleged the issue
+Worked on Iteration2 and Testing2
+
+- Arjun Vadakkekarayil Sojan
+Student ID: 144828217
+Email ID: avadakkekarayil-soja@myseneca.ca
+Role:
+Created the algorithm for the project
+
+- Kinod Lakdinu
+Student ID: 130349210
+Email: klmelewa-thanthrige@myseneca.ca
+Role:
+Created the flowchart for the porject
+Created the intructions for how the the game of rock/paper/scissors works.
+
