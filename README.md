@@ -59,31 +59,51 @@ The user will be only able to enter one option each turn, same as the auto gener
 ### Member's Role:
 
 - Parkhi Sharma
+
 Student ID: 113180210
+
 Email: psharma178@myseneca.ca
+
 Role: 
 Worked on Iteration1 and Testing1
+
 Created a new issue for resolving
+
 Made the README.md file
+
 Deployed the project
 
 - Khushi Rathod 
+
 Student ID: 121499214 
+
 Email: kkrathod@myseneca.ca
+
 Role:
+
 Acknowleged the issue
+
 Worked on Iteration2 and Testing2
 
 - Arjun Vadakkekarayil Sojan
+
 Student ID: 144828217
+
 Email ID: avadakkekarayil-soja@myseneca.ca
+
 Role:
+
 Created the algorithm for the project
 
 - Kinod Lakdinu
+
 Student ID: 130349210
+
 Email: klmelewa-thanthrige@myseneca.ca
+
 Role:
-Created the flowchart for the porject
+
+Created the flowchart for the project
+
 Created the intructions for how the the game of rock/paper/scissors works.
 
