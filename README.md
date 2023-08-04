@@ -111,7 +111,7 @@ Created the intructions for how the the game of rock/paper/scissors works.
 
 ### Links for the files 
 
-- Flowchart: [OPS445.drawio.pdf](https://github.com/113180210-myseneca/Group-Lab/files/12263943/OPS445.drawio.pdf)
+- Flowchart: https://github.com/113180210-myseneca/Group-Lab/blob/main/OPS445.drawio.pdf  
 
 - Iteration 1: https://github.com/113180210-myseneca/Group-Lab/blob/Iteration1/Iteration1.py
 
